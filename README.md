@@ -2,8 +2,8 @@
 I'm Teresa Sara Saji, an undergraduate pursuing Electronics and Computer Engineering. I am passionate about Web Development. I am eager to explore and dive into the realms of it. My journey is less about glamorous coding montages and more about taming the quirks of algorithms.
 # About Me
 * 🎓Currently pursuing Electronics and Computer Engineering at Vit Chennai
-* 📊Data Science and Machine Learning Enthusiast
-* 🤖Currently learning Python, Data Science and Mathematics for Data Science
+* 📊Passionate about web development
+* 🤖Currently learning MERN stack for becoming a potential full stack web developer
 # Skills
 * Languages: Python,C++,Java
 # Connect With Me
