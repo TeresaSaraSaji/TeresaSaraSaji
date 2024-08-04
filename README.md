@@ -1,5 +1,5 @@
 # **Hello there!👋**
-I'm Teresa Sara Saji, an undergraduate pursuing Electronics and Computer Engineering. I am passionate about Data Science and Machine Learning. I am eager to explore and dive into the realms of machine learning. My journey is less about glamorous coding montages and more about wrestling with unruly datasets and taming the quirks of algorithms.
+I'm Teresa Sara Saji, an undergraduate pursuing Electronics and Computer Engineering. I am passionate about Web Development. I am eager to explore and dive into the realms of it. My journey is less about glamorous coding montages and more about taming the quirks of algorithms.
 # About Me
 * 🎓Currently pursuing Electronics and Computer Engineering at Vit Chennai
 * 📊Data Science and Machine Learning Enthusiast
