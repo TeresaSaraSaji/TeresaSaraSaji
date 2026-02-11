@@ -1,6 +1,7 @@
 # **Hello there!👋**
 I'm Teresa Sara Saji, an undergraduate pursuing Electronics and Computer Engineering. 
 Aspiring Data Engineer and Machine Learning enthusiast currently in my final year of B.Tech, with a strong interest in Data Engineering, Data Analytics, and ML.
+
 🔹 Skilled in Python, SQL, and ETL workflows  
 🔹 Experienced in data preprocessing, model building, and analytical problem solving  
 🔹 Interested in scalable data systems and cloud-based data architectures  
